@@ -1,6 +1,6 @@
 ## Hi, I'm Mateo 🚀 
 
-I am a self-made Software Engineer from Colombia, currently I work as a Senior Frontend Engineer at [_hourly_](https://www.hourly.io/).}
+I am a self-made Software Engineer from Colombia, currently I work as a Senior Frontend Engineer at [_hourly_](https://www.hourly.io/).
 
 ### 💬 Ask me about
 
